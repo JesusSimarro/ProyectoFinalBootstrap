@@ -1,0 +1,53 @@
+.row > *{
+    min-height: 70px;
+    border: 10px solid white;
+}
+.titulo{
+    font-size: larger;
+    font-weight: bold;
+}
+img{
+    height: 100%;
+    max-height: 300px;
+}
+.inicio{
+    width: 100%;
+}
+h4{
+    text-align: center;
+}
+.redes{
+    text-align: center;
+}
+.img-inicial{
+    height: 50px;
+    width: 50px;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: black;
+    text-decoration: none;
+}
+.enlace a{
+    color: black;
+    font-weight: bold;
+    font-size: larger;
+}
+.btn{
+    border: 1px solid #343a40;
+    background-color: #343a40;
+    color: white;
+    padding: 5px;
+}
+.btn:hover{
+    background-color: white;
+    color: #343a40;
+}
+textarea{
+    resize: none;
+}
+.redes{
+    padding-left: 20px;
+}
